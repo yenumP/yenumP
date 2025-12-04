@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**yenumP/yenumP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am Yenum, a Supply Chain Analyst  passionate about turning data into actionable insights and optimising business operations. I specialize in analyzing sales, inventory, and logistics data to improve efficiency, reduce costs, and enhance customer satisfaction.
 
-Here are some ideas to get you started:
+I have experience using tools such as:
+- Power BI
+- Excel
+-  SQL
+-  Tableau and
+-  data visualisation, I build dashboards and reports that help businesses track performance, identify trends, and make informed decisions.
+I am always eager to collaborate on projects that involve data-driven decision-making, process optimisation, and e-commerce growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
