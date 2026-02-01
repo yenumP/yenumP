@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- I am Yenum, a Supply Chain Analyst  passionate about turning data into actionable insights and optimising business operations. I specialize in analyzing sales, inventory, and logistics data to improve efficiency, reduce costs, and enhance customer satisfaction.
+ I am Yenum, a Data Analyst  passionate about turning data into actionable insights and optimising business operations. I specialize in analyzing sales, inventory, and logistics data to improve efficiency, reduce costs, and enhance customer satisfaction.
 
 I have experience using tools such as:
 - Power BI
